@@ -8,5 +8,7 @@
    
    phpPgAdmin/classes/database/Postgres17.php
    
-   Edit Connection.php to include Postgres17.php
+   Edit Connection.php to include...
+   Postgres17.php
+   
    phpPgAdmin/classes/database/Connection.php
