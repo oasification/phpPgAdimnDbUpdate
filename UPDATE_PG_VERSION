@@ -1,7 +1,9 @@
 
- Edit files in phpPgAdmin/classes/database/
-   Create a new file called 
-   Postgres17.php, by copying say Postgre12.php
+ Edit files in...
+ phpPgAdmin/classes/database/
+   
+   Copy Postgres12.php to Postgres17.php
+   
    Edit the copy changing 12 to 17 everywhere
    
    phpPgAdmin/classes/database/Postgres17.php
