@@ -1,4 +1,4 @@
 
  Edit files in...
-   /var/www/html/phpPgAdmin/classes/database/Postgres17.php
-   /var/www/html/phpPgAdmin/classes/database/Connection.php
+   phpPgAdmin/classes/database/Postgres17.php
+   phpPgAdmin/classes/database/Connection.php
